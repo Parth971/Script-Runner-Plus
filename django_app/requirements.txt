@@ -1,0 +1,6 @@
+django
+python-dotenv
+psycopg2
+paho-mqtt
+channels[daphne]
+channels-redis

@@ -1,0 +1,4 @@
+python-dotenv
+peewee
+psycopg2
+paho-mqtt
