@@ -1,4 +1,4 @@
-# Tkinter + Django Application
+# Script-Runner-Plus
 
 Follow these steps to set up project:
 
